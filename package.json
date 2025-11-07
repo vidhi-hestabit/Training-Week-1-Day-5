@@ -8,7 +8,7 @@
     "lint": "eslint 'src/**/*.js' --fix",
     "test": "echo \"Error: no test specified\" && exit 1",
     "validate": "./validate.sh",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
